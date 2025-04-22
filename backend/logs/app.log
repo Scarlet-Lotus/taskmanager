@@ -1,0 +1,56 @@
+2025-03-25T16:49:11.787+05:00  INFO 27524 --- [main] c.e.t.b.c.AdminUserControllerTest        : Starting AdminUserControllerTest using Java 17.0.14 with PID 27524 (started by admin in C:\Users\admin\Projects\taskmanager\backend)
+2025-03-25T16:49:11.790+05:00 DEBUG 27524 --- [main] c.e.t.b.c.AdminUserControllerTest        : Running with Spring Boot v3.1.4, Spring v6.0.12
+2025-03-25T16:49:11.792+05:00  INFO 27524 --- [main] c.e.t.b.c.AdminUserControllerTest        : No active profile set, falling back to 1 default profile: "default"
+2025-03-25T16:49:17.281+05:00  WARN 27524 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: b38766ac-a615-4946-8583-4fa97eb919cd
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-03-25T16:49:17.692+05:00  INFO 27524 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@3e98b933, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@222d9d4f, org.springframework.security.web.context.SecurityContextHolderFilter@312a738d, org.springframework.security.web.header.HeaderWriterFilter@4d8056bf, org.springframework.security.web.csrf.CsrfFilter@4537880f, org.springframework.security.web.authentication.logout.LogoutFilter@7ff09659, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@11bdab37, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@32d0d7eb, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@4269aad7, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@369ad7da, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@34cb0e49, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3f6f9cef, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@a4df251, org.springframework.security.web.access.ExceptionTranslationFilter@ba562e0, org.springframework.security.web.access.intercept.AuthorizationFilter@2b1a901d]
+2025-03-25T16:49:17.817+05:00  INFO 27524 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2025-03-25T16:49:17.817+05:00  INFO 27524 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-03-25T16:49:17.820+05:00  INFO 27524 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2025-03-25T16:49:17.880+05:00  INFO 27524 --- [main] c.e.t.b.c.AdminUserControllerTest        : Started AdminUserControllerTest in 7.21 seconds (process running for 9.994)
+2025-03-25T16:53:07.690+05:00  INFO 11440 --- [main] c.e.t.b.c.AdminUserControllerTest        : Starting AdminUserControllerTest using Java 17.0.14 with PID 11440 (started by admin in C:\Users\admin\Projects\taskmanager\backend)
+2025-03-25T16:53:07.692+05:00 DEBUG 11440 --- [main] c.e.t.b.c.AdminUserControllerTest        : Running with Spring Boot v3.1.4, Spring v6.0.12
+2025-03-25T16:53:07.693+05:00  INFO 11440 --- [main] c.e.t.b.c.AdminUserControllerTest        : No active profile set, falling back to 1 default profile: "default"
+2025-03-25T16:53:12.212+05:00  WARN 11440 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 498cceba-acab-4a65-80be-ff30fa5c5b12
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-03-25T16:53:12.560+05:00  INFO 11440 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@65db548, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@150f41b9, org.springframework.security.web.context.SecurityContextHolderFilter@4537880f, org.springframework.security.web.header.HeaderWriterFilter@da22aa, org.springframework.security.web.csrf.CsrfFilter@2bc0b8c8, org.springframework.security.web.authentication.logout.LogoutFilter@782e6b40, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@38e00b47, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@3212bfd, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@6e364f1f, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@7ff09659, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@48e74764, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@55071497, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@429e7914, org.springframework.security.web.access.ExceptionTranslationFilter@416b1265, org.springframework.security.web.access.intercept.AuthorizationFilter@6c421123]
+2025-03-25T16:53:12.682+05:00  INFO 11440 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2025-03-25T16:53:12.682+05:00  INFO 11440 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-03-25T16:53:12.685+05:00  INFO 11440 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2025-03-25T16:53:12.750+05:00  INFO 11440 --- [main] c.e.t.b.c.AdminUserControllerTest        : Started AdminUserControllerTest in 5.7 seconds (process running for 8.041)
+2025-03-25T16:53:54.861+05:00  INFO 3472 --- [main] c.e.t.b.c.AdminUserControllerTest        : Starting AdminUserControllerTest using Java 17.0.14 with PID 3472 (started by admin in C:\Users\admin\Projects\taskmanager\backend)
+2025-03-25T16:53:54.862+05:00 DEBUG 3472 --- [main] c.e.t.b.c.AdminUserControllerTest        : Running with Spring Boot v3.1.4, Spring v6.0.12
+2025-03-25T16:53:54.863+05:00  INFO 3472 --- [main] c.e.t.b.c.AdminUserControllerTest        : No active profile set, falling back to 1 default profile: "default"
+2025-03-25T16:53:58.105+05:00  WARN 3472 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 9a60bd80-0c12-4f70-a3af-72a7c42935fb
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-03-25T16:53:58.316+05:00  INFO 3472 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@11bdab37, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@280484c7, org.springframework.security.web.context.SecurityContextHolderFilter@58b8f9e3, org.springframework.security.web.header.HeaderWriterFilter@2729bb71, org.springframework.security.web.csrf.CsrfFilter@405d8a80, org.springframework.security.web.authentication.logout.LogoutFilter@534762ed, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@dae5e0, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@6233c6c2, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@5a6f6cac, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1a7d0c9f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5f6e2ad9, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1d1cfe4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@258a8584, org.springframework.security.web.access.ExceptionTranslationFilter@338d47b, org.springframework.security.web.access.intercept.AuthorizationFilter@769b0752]
+2025-03-25T16:53:58.422+05:00  INFO 3472 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2025-03-25T16:53:58.422+05:00  INFO 3472 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-03-25T16:53:58.425+05:00  INFO 3472 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2025-03-25T16:53:58.480+05:00  INFO 3472 --- [main] c.e.t.b.c.AdminUserControllerTest        : Started AdminUserControllerTest in 4.156 seconds (process running for 6.463)
+2025-03-25T16:54:51.107+05:00  INFO 25328 --- [main] c.e.t.b.c.AdminUserControllerTest        : Starting AdminUserControllerTest using Java 17.0.14 with PID 25328 (started by admin in C:\Users\admin\Projects\taskmanager\backend)
+2025-03-25T16:54:51.108+05:00 DEBUG 25328 --- [main] c.e.t.b.c.AdminUserControllerTest        : Running with Spring Boot v3.1.4, Spring v6.0.12
+2025-03-25T16:54:51.110+05:00  INFO 25328 --- [main] c.e.t.b.c.AdminUserControllerTest        : No active profile set, falling back to 1 default profile: "default"
+2025-03-25T16:54:54.279+05:00  WARN 25328 --- [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 1498ca76-6b38-4028-bc97-a4f7acb568e1
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-03-25T16:54:54.509+05:00  INFO 25328 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@621dc63d, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4ae49387, org.springframework.security.web.context.SecurityContextHolderFilter@32d0d7eb, org.springframework.security.web.header.HeaderWriterFilter@7858d31d, org.springframework.security.web.csrf.CsrfFilter@3212bfd, org.springframework.security.web.authentication.logout.LogoutFilter@280484c7, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@344f9467, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@3eec8583, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@6abb7b7d, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@528e5e38, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7d12429, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@534762ed, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@34cf0e80, org.springframework.security.web.access.ExceptionTranslationFilter@3f6f9cef, org.springframework.security.web.access.intercept.AuthorizationFilter@369ad7da]
+2025-03-25T16:54:54.592+05:00  INFO 25328 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2025-03-25T16:54:54.592+05:00  INFO 25328 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-03-25T16:54:54.594+05:00  INFO 25328 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2025-03-25T16:54:54.637+05:00  INFO 25328 --- [main] c.e.t.b.c.AdminUserControllerTest        : Started AdminUserControllerTest in 4.136 seconds (process running for 6.21)
